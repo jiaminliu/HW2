@@ -1,0 +1,20 @@
+body
+		{
+			color: Black;
+			background-color: White;
+			font-size: 12pt;
+			font-family: Veranda; Geneva, Arial, Helvetica, sans-serif;  
+			text-align: center;
+		}
+		
+		div { background-color:white; text-align:center; margin:0 auto; font-size:14pt; }
+		
+		
+		h1 { font-decoration:underline;font-weight:bold; font-size:20pt }
+		h2 { font-weight:bold; text-decoration:underline }
+		
+		
+		
+		.result { text-decoration:underline;font-size:12pt; text-align:center;}
+		.footnote { font-size:12pt;font-style:italic;color:Blue;}
+		#Welcome_Header { font-weight:bold; font-size: 20pt;text-align:center; font-style:underline }
